@@ -1,6 +1,0 @@
-Don't use eval $(minikube docker-env)
-if you want to use this 
-
-
-docker tag demo:0.0.1-SNAPSHOT localhost:5000/demo:0.0.1-SNAPSHOT
-docker push localhost:5000/demo:0.0.1-SNAPSHOT
