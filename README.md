@@ -1,27 +1,10 @@
 <div id="top"></div>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
+
 
 
 
 <!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -30,22 +13,22 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.jpg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">A reference Digital Transformation Architecture</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    This is a Digital Transformation Reference Architecture, combining best of breed opensource software. This is not meant to be used for production, does not have any proprietory or copyrightable material. Most of the work is derived from freely available material and best practices learnt over the years.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="#"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/ranjanprj/DxArchitecture">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/ranjanprj/DxArchitecture/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/ranjanprj/DxArchitecture/issues">Request Feature</a>
   </p>
 </div>
 
@@ -82,18 +65,17 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/ranjanprj/DxArchitecture/)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+📢 Open-Source reference Digital Transformation Architecture(Opinionated, Coming Soon)
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+I always wanted a reference Architecture for Digital Transformation in Enterprises, which I can refer to again and again in times of need and also improve upon.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+Not able to find a suitable one I decided to build my own and Open-Source( Coming Soon) it for larger community.
 
-Use the `BLANK_README.md` to get started.
+I'm trying to build it with following point with predominant tech stack in mind.
+
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -103,14 +85,21 @@ Use the `BLANK_README.md` to get started.
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [Kubernetes](https://github.com/ranjanprj/DxArchitecture)
+* [Spring Boot](https://github.com/ranjanprj/DxArchitecture)
+* [Apache Kafka + ActiveMQ](https://github.com/ranjanprj/DxArchitecture)
+* [API Gateway (Internal+External)( TBD )](https://github.com/ranjanprj/DxArchitecture)
+* [penAPI 3.0 and Actuator Services](https://github.com/ranjanprj/DxArchitecture)
+* [Data Lake ( TBD )](https://github.com/ranjanprj/DxArchitecture)
+* [Business Intelligence (TBD )](https://github.com/ranjanprj/DxArchitecture)
+* [IoT Middleware (TBD)](https://github.com/ranjanprj/DxArchitecture)
+* [LinkerD Service Mesh](https://github.com/ranjanprj/DxArchitecture)
+* [Ingress-nginx](https://github.com/ranjanprj/DxArchitecture)
+* [Keycloak - SSO/OAuth](https://github.com/ranjanprj/DxArchitecture)
+* [enkins for DevSecOps](https://github.com/ranjanprj/DxArchitecture)
+* [Terraform/Ansible](https://github.com/ranjanprj/DxArchitecture)
+* [AI/ML ( TBD )](https://github.com/ranjanprj/DxArchitecture)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -155,9 +144,10 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Taking an example of Supply Chain Portal, where a companies stakeholders Suppliers, Vendors, Customer can come together.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+
+<!-- _For more examples, please refer to the [Documentation](https://example.com)_ -->
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -166,15 +156,15 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
+<!-- - [x] Set Kubernetes
+- [x] Create a single MicroServices using Spring Boot
+- [x] Provision Integrate Kafka
 - [ ] Add "components" document to easily copy & paste sections of the readme
 - [ ] Multi-language Support
     - [ ] Chinese
-    - [ ] Spanish
+    - [ ] Spanish -->
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/ranjanprj/DxArchitecture/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -185,14 +175,8 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+You can simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -201,7 +185,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the Creative Commons License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -210,9 +194,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - [@LinkedIn](https://linkedin.com/in/ranjanprj) - ranjanprj@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/ranjanprj/DxArchitecture](https://github.com/ranjanprj/DxArchitecture)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -221,16 +205,16 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+This project stands on the shoulders of giants, and I would like to acknowledge all the opensource projects I have used in this project.
 
-* [Choose an Open Source License](https://choosealicense.com)
+<!-- * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
 * [Malven's Grid Cheatsheet](https://grid.malven.co/)
 * [Img Shields](https://shields.io)
 * [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+* [React Icons](https://react-icons.github.io/react-icons/search) -->
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -238,28 +222,13 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
 
 
 
-# DxArchitecture
-A reference architecture for Digital Transformation project, with Java, Kubernetes and all best practices 
 
-```
-Create a generic chassis or skaffolding or a reference architecture with documentation, combining best of breed opensource software, upon which any enterprise can base their Digital Transformation.
-
-Taking an example of Supply Chain Portal, where a companies stakeholders Suppliers, Vendors, Customer can come together.
 
 
