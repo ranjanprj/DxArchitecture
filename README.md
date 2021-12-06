@@ -89,7 +89,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [Spring Boot](https://github.com/ranjanprj/DxArchitecture)
 * [Apache Kafka + ActiveMQ](https://github.com/ranjanprj/DxArchitecture)
 * [API Gateway (Internal+External)( TBD )](https://github.com/ranjanprj/DxArchitecture)
-* [penAPI 3.0 and Actuator Services](https://github.com/ranjanprj/DxArchitecture)
+* [OpenAPI 3.0 and Actuator Services](https://github.com/ranjanprj/DxArchitecture)
 * [Data Lake ( TBD )](https://github.com/ranjanprj/DxArchitecture)
 * [Business Intelligence (TBD )](https://github.com/ranjanprj/DxArchitecture)
 * [IoT Middleware (TBD)](https://github.com/ranjanprj/DxArchitecture)
