@@ -96,7 +96,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [LinkerD Service Mesh](https://github.com/ranjanprj/DxArchitecture)
 * [Ingress-nginx](https://github.com/ranjanprj/DxArchitecture)
 * [Keycloak - SSO/OAuth](https://github.com/ranjanprj/DxArchitecture)
-* [enkins for DevSecOps](https://github.com/ranjanprj/DxArchitecture)
+* [Jenkins for DevSecOps](https://github.com/ranjanprj/DxArchitecture)
 * [Terraform/Ansible](https://github.com/ranjanprj/DxArchitecture)
 * [AI/ML ( TBD )](https://github.com/ranjanprj/DxArchitecture)
 
