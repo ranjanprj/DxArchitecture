@@ -186,7 +186,7 @@ Distributed under the Creative Commons License. See `LICENSE.txt` for more infor
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@LinkedIn](https://linkedin.com/in/ranjanprj) - ranjanprj@gmail.com
+
 
 Project Link: [https://github.com/ranjanprj/DxArchitecture](https://github.com/ranjanprj/DxArchitecture)
 
@@ -216,7 +216,7 @@ This project stands on the shoulders of giants, and I would like to acknowledge 
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+
 [product-screenshot]: images/screenshot.png
 
 
