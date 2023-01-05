@@ -3,7 +3,7 @@ spring:
     stream:
       kafka:
         binder:
-          brokers: localhost:9092
+          brokers: my-cluster-kafka-bootstrap.kafka.svc.cluster.local:9092
           auto-create-topics: false
           configuration:
             auto.offset.reset: latest

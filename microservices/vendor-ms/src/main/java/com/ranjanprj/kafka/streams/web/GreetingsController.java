@@ -24,9 +24,7 @@ public class GreetingsController {
             .message(message)
             .timestamp(System.currentTimeMillis())
             .build();
-
         greetingsService.sendGreeting(greetings);
-
         return ResponseEntity.ok(greetings);
     }
 
